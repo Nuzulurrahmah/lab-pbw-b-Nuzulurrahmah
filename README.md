@@ -3,5 +3,4 @@
 ## Data Diri
  
 * Nama: Nuzulurrahmah
- 
 * NPM: 2108107010012
