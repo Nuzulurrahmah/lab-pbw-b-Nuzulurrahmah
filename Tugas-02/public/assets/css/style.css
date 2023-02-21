@@ -34,7 +34,6 @@ header {
     font-size: 15px;
   }
 
-
 footer {
   position: fixed;
   left: 0;
@@ -61,12 +60,10 @@ footer {
   font-family: 'Times New Roman', Times, serif;
 }
 
-
 .section-content p{
     margin-top: 10px;
     font-size: 15px;
 }
-
 
 .section-image {
     margin-top: 10px;
